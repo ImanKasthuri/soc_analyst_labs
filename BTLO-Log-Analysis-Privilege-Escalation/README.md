@@ -2,7 +2,7 @@
 
 ## Overview
 
-This lab demonstrates an investigation of the attacker's bash history. There were no signs of hacking because no one logged in to the server; instead, the attacker used a hidden weakness in the website. The attacker used the ```x.phtml``` malicious file to get remote access to the website and find the server's vulnerabilities. With the use of X.phtml malicious file attacker discovered that Python enabled the SUID, which will help them to gain root access in the server. The attacker deleted x.phtml to hide the evidence that would make them harder to detect.
+This lab demonstrates an investigation of the attacker's bash history. There were no signs of hacking because no one logged in to the server; instead, the attacker used a hidden weakness in the website. The attacker used the ```x.phtml``` malicious file to get remote access to the website and find the server's vulnerabilities. With the use of X.phtml malicious file, attacker discovered that Python enabled the SUID, which will help them to gain root access in the server. The attacker deleted x.phtml to hide the evidence that would make them harder to detect.
 
 ## Tools Used
 NotePad ++
