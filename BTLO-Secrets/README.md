@@ -4,11 +4,11 @@ This lab helped me understand how JWT tokens work and how they can be misused if
 
 ## Tools Used
 
-CyberShef
+- CyberShef
 
-HashCat
+- HashCat
 
-JWT.IO
+- JWT.IO
 
 ### #1) Can you identify the name of the token?
 
