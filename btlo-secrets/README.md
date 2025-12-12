@@ -1,4 +1,9 @@
-# Overview
+# BTLO Secrets
+## Senario
+
+<img width="1736" height="472" alt="image" src="https://github.com/user-attachments/assets/599a04c7-99dc-471e-8828-0401d83e9d04" />
+
+## Overview
 
 This lab helped me understand how JWT tokens work and how they can be misused if not configured properly. The challenge focused on how a security engineer should enforce least privilege when creating JSON Web Tokens. I also learned how to use Hashcat to brute-force a weak JWT secret and see how attackers can exploit poorly secured tokens.
 
