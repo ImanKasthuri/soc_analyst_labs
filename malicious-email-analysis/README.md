@@ -3,6 +3,9 @@
 
 ## Senario
 
+<img width="1144" height="396" alt="image" src="https://github.com/user-attachments/assets/00776716-081d-41bc-bfa9-b8309eef1ad3" />
+
+
 <img width="https://github.com/imankasthuri/soc-analyst-labs/blob/main/malicious-email-analysis/screenshots/Screenshot%201.png?raw=true" />
 
 
